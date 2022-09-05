@@ -1,0 +1,30 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: #50f8ad;
+	border-radius: 20px;
+}
+
+.dh{
+font-family: 'Shadows Into Light', cursive;
+font-size: 50px;
+border-color: #50f8ad;
+border-width: 5px;
+border-radius: 5px;}
+
+.hg
+{
+	font-family: 'Shadows Into Light', cursive;
+	color: black;
+border-color: #50f8ad;
+background-color: #50f8ad;
+
+}
