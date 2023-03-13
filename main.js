@@ -20,7 +20,7 @@ var SpeechRecognition = window.webkitSpeechRecognition;
 var recognition = new SpeechRecognition();
 function start()
 {
-  document.getElementById("status").innerHTML = "System is listening please speak";  
+  document.getElementById("status").innerHTML = "System is listening.Please tell the number of birds you want to be drawn";  
   recognition.start();
 } 
  
